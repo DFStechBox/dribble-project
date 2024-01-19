@@ -1,5 +1,5 @@
-
-import './App.css'
+import PricingCard from './assets/components/PricingCard/PricingCard';
+import './App.css';
 
 function App() {
   
@@ -7,7 +7,7 @@ function App() {
   return (
   
       <div>
-        
+        <PricingCard />
       </div>
      
   
